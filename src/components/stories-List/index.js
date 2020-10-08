@@ -1,6 +1,6 @@
 import React, { Component, useState } from 'react';
 import IssueDescription from '../issue-description';
-import './index.scss';
+import './index.css';
 
 const StoriesList = ({ data }) => {
     const [s_issue, set_issue] = useState({});

@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.scss';
+import './index.css';
 
 const PointsBoard = ()=>{
     const points = [0, 0.5, 1, 2, 3, 5, 8, 13, 20, 40, 100];

@@ -3,7 +3,7 @@ import ReactMarkdown from 'react-markdown';
 import PointsBoard from '../points-board';
 import {EditIssueDetails,getIssueDetails} from '../../api/apiCalls';
 
-import './index.scss';
+import './index.css';
 
 const IssueShowDetails = ({ issue,set_issue }) => {
     const [issue_data,setissue_data] = useState({});

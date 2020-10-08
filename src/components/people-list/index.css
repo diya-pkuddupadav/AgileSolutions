@@ -1,0 +1,36 @@
+.people_list{
+  margin: 10px 0;
+
+.people_list .heading {
+  background-color: #a3adba;
+  font-size: 16px;
+  padding: 10px 26px;
+  color: #2b2b2b;
+  font-weight: 500;
+}
+
+.people_list ul.list{
+  list-style: none;
+  min-height: 300px;
+  overflow: auto;
+  padding: 0;
+  margin: 0;
+  padding: 6px 16px 6px 12px;
+}
+
+.people_list ul.list li {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 14px;
+  color: #172b4d;
+  border-bottom: 1px solid #dfe1e6;
+  padding: 7px 0;
+  margin: 0;
+}
+
+.people_list ul.list li img {
+  height: 35px;
+  margin-right: 10px;
+  border-radius: 26px;
+}
