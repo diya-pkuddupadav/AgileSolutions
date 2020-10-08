@@ -1,7 +1,7 @@
 const data = {
     "client_id": "BRphak8h3YqAhP67Jxs0XSnmzrqfYlQn",
     "client_secret":"MFITDWbKbGcWIse1wP3h247LLIGwSl032o4ebP18k-x2AeCgZVeLHEInh6TpwZL8",
-    "Callback_URL":"https://atlas-planning-poker.herokuapp.com",
+    "Callback_URL":"https://praveen-testing.atlassian.net/plugins/servlet/ac/com.example.myplanningapp/index?project.key=TP&project.id=10000",
     "YOUR_USER_BOUND_VALUE":"",
     "API":{
         getAuth:'https://auth.atlassian.com/oauth/token'
